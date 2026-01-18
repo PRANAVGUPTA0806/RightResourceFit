@@ -13,7 +13,6 @@ Right Resource Fit is designed to streamline recruitment processes, enabling the
 7. 📋 Applicants can **view the status** of their job applications.
 8. 👥 HR can **track applicants** and their application statuses.
 
-
 ## Project Structure 🏗️
 
 Right Resource Fit/
